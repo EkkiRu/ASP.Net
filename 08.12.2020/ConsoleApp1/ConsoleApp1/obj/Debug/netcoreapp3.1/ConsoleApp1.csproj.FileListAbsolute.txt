@@ -1,0 +1,13 @@
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Колледж\Практика\ООП\LP_OOP_2020\08.12.2020\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
